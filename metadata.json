@@ -1,0 +1,6 @@
+{
+  "name": "LifeQuest",
+  "description": "A fantasy RPG gamification app that turns real life tasks into RPG quests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
